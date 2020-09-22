@@ -1,0 +1,5 @@
+ImagenMenu = 44, 58, 412, 408, C, 22, 29, 390, 379, C
+CMWndProc = 66, 87, 434, 437, C
+CMyItemData = 110, 145, 478, 495, C
+CMyItemDatas = 0, 0, 368, 350, C
+CoolMenu = 22, 29, 390, 379, C
